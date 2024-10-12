@@ -13,7 +13,7 @@
 
 	tutorial = "Be you an instrument of sadism for the King or the guarantor of his merciful hospitality, your duties are a service paid for most handsomely. Perhaps you were promoted from the garrison down to these cells to get your brutality off the town streets where cracked skulls caused outcries, or maybe your soft-hearted lord wanted to be sure his justice was done without malice. In either case, your little world is the lowest office in the Realm; from it your guests see only hell."
 	outfit = /datum/outfit/job/roguetown/dungeoneer
-	give_bank_account = 5
+	give_bank_account = 50
 	min_pq = 1
 	max_pq = null
 
