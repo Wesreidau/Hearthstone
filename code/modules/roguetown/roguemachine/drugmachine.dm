@@ -6,7 +6,7 @@
 #define DRUGRADE_NOTAX				(1<<5)
 
 /obj/structure/roguemachine/drugmachine
-	name = "PURITY"
+	name = "Temptress"
 	desc = "You want to destroy your life."
 	icon = 'icons/roguetown/misc/machines.dmi'
 	icon_state = "streetvendor1"
